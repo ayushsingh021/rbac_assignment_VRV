@@ -1,6 +1,22 @@
-# Todo Management App
+# Role Based Access Control For a Task management app
 
-A feature-rich Todo Management application built using React.js, Firebase, and TailwindCSS. This app supports real-time updates, role-based permissions, and CRUD operations for managing todos efficiently.
+A feature-rich Role Based Access Control For a Task management application built using React.js, Firebase, and TailwindCSS. This app supports real-time updates, role-based permissions, and CRUD operations for managing todos efficiently.
+
+---
+
+## Credentials to Login: Explore the Application :) (See Demo Video)
+
+- **Admin**: Use --> Email : test@admin.com , Password : 123456
+- **Users**: Use --> Email : user1@admin.com , Password : 123456
+  Email : user2@admin.com , Password : 123456
+- **You Can Create as many users as possible (From SignUp) with different email ids and password and from admin you can make users admin also**:
+  - Admins can access an admin dashboard.
+  - Permissions control read/write access to todos.
+- **CRUD Operations**: Add, update, mark complete, and delete todos.
+  - Users can access only those features of CRUD that Admin given to them.
+  - Permissions control read/write access to todos.
+
+---
 
 ---
 
@@ -14,23 +30,26 @@ A feature-rich Todo Management application built using React.js, Firebase, and T
 - **CRUD Operations**: Add, update, mark complete, and delete todos.
 - **Responsive Design**: Fully responsive UI built with TailwindCSS.
 - **User-Friendly Interface**: Hover tooltips for better accessibility and disabled buttons with feedback when permissions are restricted.
+- **User-Interaction History**: Complete interaction history of user of any updation or creation is stored in firebase database
 
 ---
 
 ## Demo
 
-[![Demo Video](https://via.placeholder.com/728x90.png?text=Demo+Video+Placeholder)](https://your-demo-link.com)
+[![Demo Video](https://drive.google.com/file/d/1AFCQUNUcb1XqfGTq6r-utZAtkJLrrLV3/view?usp=sharing)](https://drive.google.com/file/d/1AFCQUNUcb1XqfGTq6r-utZAtkJLrrLV3/view?usp=sharing)
 
 ---
 
 ## Tech Stack
 
 ### Frontend:
+
 - React.js
 - TailwindCSS
 - React Router
 
 ### Backend:
+
 - Firebase Authentication
 - Firebase Firestore
 
@@ -39,23 +58,26 @@ A feature-rich Todo Management application built using React.js, Firebase, and T
 ## Setup Instructions
 
 ### Prerequisites
+
 - Node.js and npm installed
 - Firebase account and project setup
 
 ### Steps to Run Locally
 
 1. **Clone the Repository**
+
    ```bash
-   git clone https://github.com/your-username/todo-management-app.git
-   cd todo-management-app
+   git clone https://github.com/ayushsingh021/rbac_assignment_VRV.git
    ```
 
 2. **Install Dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Setup Firebase Configuration**
+
    - Create a `.env` file in the root directory.
    - Add your Firebase project configuration:
      ```env
@@ -68,6 +90,7 @@ A feature-rich Todo Management application built using React.js, Firebase, and T
      ```
 
 4. **Start the Development Server**
+
    ```bash
    npm start
    ```
@@ -139,6 +162,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)
+- **Email**: ayush.singh0943@gmail.com
+- **GitHub**: [Ayush Singh](https://github.com/ayushsingh021)
+- **LinkedIn**: [Ayush Singh](https://www.linkedin.com/in/contactayushsingh/)
