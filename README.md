@@ -1,11 +1,11 @@
-# Role Based Access Control For a Task management app
+# Role Based Access Control For a Task management app 
 
 A feature-rich Role Based Access Control For a Task management application built using React.js, Firebase, and TailwindCSS. This app supports real-time updates, role-based permissions, and CRUD operations for managing todos efficiently.
 
 ---
 
 ## Credentials to Login: Explore the Application :) (See Demo Video)
-
+**Password Should be 6 Digits**
 - **Admin**: Use --> Email : test@admin.com , Password : 123456
 - **Users**: Use --> Email : user1@admin.com , Password : 123456
   Email : user2@admin.com , Password : 123456
@@ -34,11 +34,17 @@ A feature-rich Role Based Access Control For a Task management application built
 
 ---
 
-## Demo
+## Demo Video(Click Below Banner)
 
-[![Demo Video](https://drive.google.com/file/d/1AFCQUNUcb1XqfGTq6r-utZAtkJLrrLV3/view?usp=sharing)](https://drive.google.com/file/d/1AFCQUNUcb1XqfGTq6r-utZAtkJLrrLV3/view?usp=sharing)
+[![Screenshot 2024-11-25 105250](https://github.com/user-attachments/assets/6aeb1685-0e3b-4584-905a-89d24d379494)(https://drive.google.com/file/d/1AFCQUNUcb1XqfGTq6r-utZAtkJLrrLV3/view?usp=sharing)](https://drive.google.com/file/d/1AFCQUNUcb1XqfGTq6r-utZAtkJLrrLV3/view?usp=sharing)
 
 ---
+## Application Preview
+![Screenshot 2024-11-25 105323](https://github.com/user-attachments/assets/e5f41687-d349-472b-9b09-9ff57bbbfb1a)
+![Screenshot 2024-11-25 105341](https://github.com/user-attachments/assets/0bda4e4c-ae12-43b1-b189-8943c8892565)
+![Screenshot 2024-11-25 105308](https://github.com/user-attachments/assets/2d016ed7-4d46-4f2e-b252-819ca9f79d80)
+![Screenshot 2024-11-25 105438](https://github.com/user-attachments/assets/416b25fb-eee1-4f69-9bb0-9cac3c587f9c)
+
 
 ## Tech Stack
 
