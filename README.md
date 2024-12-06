@@ -7,8 +7,8 @@ A feature-rich Role Based Access Control For a Task management application built
 ## Credentials to Login: Explore the Application :) (See Demo Video)
 **Password Should be 6 Digits**
 - **Admin**: Use --> Email : test@admin.com , Password : 123456
-- **Users**: Use --> Email : user1@admin.com , Password : 123456
-  Email : user2@admin.com , Password : 123456
+- **Users**: Use --> Email : test@user1.com , Password : 123456
+  Email :  test@user2.com  , Password : 123456
 - **You Can Create as many users as possible (From SignUp) with different email ids and password and from admin you can make users admin also**:
   - Admins can access an admin dashboard.
   - Permissions control read/write access to todos.
